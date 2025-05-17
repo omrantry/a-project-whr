@@ -13,9 +13,9 @@ worldhappiness.docx: A document with a report or explanation related to the data
 
 WorldHappinesVeriSeti.csv: The dataset used for analysis.
 
-Dataset Information
+Dataset Information: 
 The dataset contains various features representing factors that may affect happiness in different countries. Detailed information about the data can be found in the worldhappiness.docx file.                                                    Libraries Used
-Pandas: Data manipulation and analysis
+                                                                                                                                                                                          Pandas: Data manipulation and analysis
 
 NumPy: Numerical operations
 
