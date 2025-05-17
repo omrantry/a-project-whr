@@ -16,7 +16,6 @@ WorldHappinesVeriSeti.csv: The dataset used for analysis.
 
 Dataset Information: 
 The dataset contains various features representing factors that may affect happiness in different countries. Detailed information about the data can be found in the worldhappiness.docx file.                                        
-
 Libraries Used
                                                                                                                                                                                         Pandas: Data manipulation and analysis
 
